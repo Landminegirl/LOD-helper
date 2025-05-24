@@ -9,7 +9,7 @@ just click, edit, add ons, this little arrow, "install from disk" , and install 
 
 then you'll get an N pannel option on the right hand side
 
-then select the object you'd like to add the LODS to, and simply click the "Add LOD Properies" button and BOOM you're done! 
+then select the object you'd like to add the LODS to, and simply click the "Add LOD Properies" dropdown, select the type of object, and BOOM you're done! 
 
 
 (TESTED ON BLENDER 2.8 TO 4.4)
@@ -20,8 +20,10 @@ https://buymeacoffee.com/landminegirl
 Its just a .py script instead of a zipped folder so you can read through it, i know people are worried about malicious addons so i just wants to be really easily transparent with it
 
 ![Image](https://github.com/user-attachments/assets/74af8bc2-bdc2-43ed-8da6-6ffbf26d3a69)
-![Image](https://github.com/user-attachments/assets/fd33a194-9ec3-44c1-a075-d6024fa7a115)
 
+![Image](https://github.com/user-attachments/assets/8559dfb3-6985-45aa-93ca-6298e8ab5f8d)
+
+![Image](https://github.com/user-attachments/assets/4631c8d4-9e00-43ac-8cd5-9a0ba34bbc85)
 
 # Item Importer
 INSTRUCTIONS:
