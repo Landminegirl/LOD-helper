@@ -21,3 +21,14 @@ Its just a .py script instead of a zipped folder so you can read through it, i k
 
 ![Image](https://github.com/user-attachments/assets/74af8bc2-bdc2-43ed-8da6-6ffbf26d3a69)
 ![Image](https://github.com/user-attachments/assets/fd33a194-9ec3-44c1-a075-d6024fa7a115)
+
+
+# Item Importer
+INSTRUCTIONS:
+
+after installing the add on, you need to add the unzipped mega folder to the preferences "Blender Folder"
+![Image](https://github.com/user-attachments/assets/66075012-7e7b-4279-8901-2451d706a5c9)
+
+
+Then click "Refresh Blend Files"
+![Image](https://github.com/user-attachments/assets/c9aee1e8-e7fb-4486-9f16-bbd9d79aabae)
